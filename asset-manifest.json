@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://akira3111.github.io/csb-szxolf/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://akira3111.github.io/csb-szxolf/static/js/main.387eb364.chunk.js",
-    "main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/main.387eb364.chunk.js.map",
+    "main.js": "https://akira3111.github.io/csb-szxolf/static/js/main.e214600d.chunk.js",
+    "main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/main.e214600d.chunk.js.map",
     "runtime-main.js": "https://akira3111.github.io/csb-szxolf/static/js/runtime-main.8ee8d594.js",
     "runtime-main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/runtime-main.8ee8d594.js.map",
     "static/js/2.33f0bf01.chunk.js": "https://akira3111.github.io/csb-szxolf/static/js/2.33f0bf01.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8ee8d594.js",
     "static/js/2.33f0bf01.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.387eb364.chunk.js"
+    "static/js/main.e214600d.chunk.js"
   ]
 }
