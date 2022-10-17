@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "https://akira3111.github.io/csb-szxolf/static/js/main.ccea442a.chunk.js",
-    "main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/main.ccea442a.chunk.js.map",
+    "main.css": "https://akira3111.github.io/csb-szxolf/static/css/main.2d398511.chunk.css",
+    "main.js": "https://akira3111.github.io/csb-szxolf/static/js/main.137e9fad.chunk.js",
+    "main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/main.137e9fad.chunk.js.map",
     "runtime-main.js": "https://akira3111.github.io/csb-szxolf/static/js/runtime-main.8ee8d594.js",
     "runtime-main.js.map": "https://akira3111.github.io/csb-szxolf/static/js/runtime-main.8ee8d594.js.map",
-    "static/js/2.669410bd.chunk.js": "https://akira3111.github.io/csb-szxolf/static/js/2.669410bd.chunk.js",
-    "static/js/2.669410bd.chunk.js.map": "https://akira3111.github.io/csb-szxolf/static/js/2.669410bd.chunk.js.map",
+    "static/js/2.6d849711.chunk.js": "https://akira3111.github.io/csb-szxolf/static/js/2.6d849711.chunk.js",
+    "static/js/2.6d849711.chunk.js.map": "https://akira3111.github.io/csb-szxolf/static/js/2.6d849711.chunk.js.map",
     "index.html": "https://akira3111.github.io/csb-szxolf/index.html",
-    "static/js/2.669410bd.chunk.js.LICENSE.txt": "https://akira3111.github.io/csb-szxolf/static/js/2.669410bd.chunk.js.LICENSE.txt"
+    "static/css/main.2d398511.chunk.css.map": "https://akira3111.github.io/csb-szxolf/static/css/main.2d398511.chunk.css.map",
+    "static/js/2.6d849711.chunk.js.LICENSE.txt": "https://akira3111.github.io/csb-szxolf/static/js/2.6d849711.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ee8d594.js",
-    "static/js/2.669410bd.chunk.js",
-    "static/js/main.ccea442a.chunk.js"
+    "static/js/2.6d849711.chunk.js",
+    "static/css/main.2d398511.chunk.css",
+    "static/js/main.137e9fad.chunk.js"
   ]
 }
